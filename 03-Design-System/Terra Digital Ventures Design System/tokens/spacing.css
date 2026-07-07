@@ -1,0 +1,36 @@
+/* ============================================================
+   Terra Digital Ventures — Spacing & Radius Tokens
+   4px base grid. Marketing sections 64–96px; product surfaces 24–48px.
+   ============================================================ */
+:root {
+  --space-2:   2px;
+  --space-4:   4px;
+  --space-8:   8px;
+  --space-12:  12px;
+  --space-16:  16px;
+  --space-20:  20px;
+  --space-24:  24px;
+  --space-32:  32px;
+  --space-40:  40px;
+  --space-48:  48px;
+  --space-64:  64px;
+  --space-80:  80px;
+  --space-96:  96px;
+
+  /* Semantic spacing */
+  --pad-card:      32px; /* feature/pricing card internal padding */
+  --pad-mockup:    24px; /* product-UI mockup padding */
+  --section-y:     96px; /* marketing section vertical rhythm */
+  --section-y-sm:  64px;
+  --gutter:        24px;
+  --container:     1200px;
+
+  /* Border radius */
+  --radius-xs:   4px;   /* tags, table chrome */
+  --radius-sm:   6px;   /* form inputs */
+  --radius-md:   8px;   /* compact cards, alerts */
+  --radius-lg:   12px;  /* feature & pricing cards */
+  --radius-xl:   16px;  /* product-UI mockup chrome */
+  --radius-2xl:  24px;  /* large hero panels */
+  --radius-pill: 9999px;/* all buttons & tag pills */
+}

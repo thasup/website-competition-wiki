@@ -1,0 +1,23 @@
+<!-- @dsCard group="Colors" viewport="700x150" name="Cerulean range" subtitle="Working states — subtle → soft → base → hover → press → ink (accessible on white)" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; padding: 24px; display: flex; gap: 10px; }
+  .sw { flex: 1; }
+  .chip { height: 64px; border-radius: var(--radius-sm); border: 1px solid rgba(0,0,0,0.06); }
+  .n { font: var(--type-micro); color: var(--text-muted); margin-top: 8px; }
+  .h { font: var(--type-micro); color: var(--text-faint); font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean-subtle)"></div><div class="n">subtle</div><div class="h">#EEF5FA</div></div>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean-soft)"></div><div class="n">soft</div><div class="h">#D3E6F1</div></div>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean)"></div><div class="n">base</div><div class="h">#529BC9</div></div>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean-hover)"></div><div class="n">hover</div><div class="h">#3F86B4</div></div>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean-press)"></div><div class="n">press</div><div class="h">#2E6E99</div></div>
+  <div class="sw"><div class="chip" style="background:var(--tdv-cerulean-ink)"></div><div class="n">ink / link</div><div class="h">#256187</div></div>
+</body>
+</html>

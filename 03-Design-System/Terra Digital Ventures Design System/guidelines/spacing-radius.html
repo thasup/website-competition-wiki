@@ -1,0 +1,24 @@
+<!-- @dsCard group="Spacing" viewport="700x180" name="Radius scale" subtitle="xs 4 · sm 6 · md 8 · lg 12 · xl 16 — buttons & tags are full pill" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; padding: 28px 32px; display: flex; gap: 18px; align-items: flex-start; }
+  .u { text-align: center; }
+  .box { width: 76px; height: 76px; background: var(--tdv-frost);
+         border: 1px solid var(--border-default); }
+  .n { font: var(--type-caption); color: var(--text-muted); margin-top: 8px; font-variant-numeric: tabular-nums; }
+  .pill { width: 110px; border-radius: var(--radius-pill); background: var(--tdv-cerulean); }
+</style>
+</head>
+<body>
+  <div class="u"><div class="box" style="border-radius:var(--radius-xs)"></div><div class="n">xs · 4</div></div>
+  <div class="u"><div class="box" style="border-radius:var(--radius-sm)"></div><div class="n">sm · 6</div></div>
+  <div class="u"><div class="box" style="border-radius:var(--radius-md)"></div><div class="n">md · 8</div></div>
+  <div class="u"><div class="box" style="border-radius:var(--radius-lg)"></div><div class="n">lg · 12</div></div>
+  <div class="u"><div class="box" style="border-radius:var(--radius-xl)"></div><div class="n">xl · 16</div></div>
+  <div class="u"><div class="box pill"></div><div class="n">pill</div></div>
+</body>
+</html>

@@ -1,0 +1,4 @@
+/* Terra Digital Ventures — Webfonts
+   Latin: Poppins  ·  Thai: Sarabun  (both Google Fonts, open source)
+   Bilingual stack renders Latin in Poppins and falls through to Sarabun for Thai glyphs. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Sarabun:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');

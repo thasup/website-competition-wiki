@@ -1,0 +1,42 @@
+<!-- @dsCard group="Brand" viewport="700x300" name="Orb Mesh backdrop" subtitle="Signature hero wash — Viridian → Swamp → Cerulean → Tawny → Terra Cotta, orb as light source" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; }
+  .mesh {
+    position: relative; height: 300px; overflow: hidden;
+    background:
+      radial-gradient(60% 90% at 14% 6%, rgba(82,155,201,0.85) 0%, rgba(82,155,201,0) 60%),
+      radial-gradient(55% 80% at 42% -8%, rgba(53,120,135,0.75) 0%, rgba(53,120,135,0) 62%),
+      radial-gradient(60% 90% at 74% 0%, rgba(231,214,205,0.9) 0%, rgba(231,214,205,0) 60%),
+      radial-gradient(50% 80% at 96% 10%, rgba(117,42,25,0.55) 0%, rgba(117,42,25,0) 60%),
+      linear-gradient(180deg, rgba(0,56,73,0.10) 0%, #ffffff 62%);
+    background-color: #ffffff;
+  }
+  .orb {
+    position: absolute; top: 34px; left: 60px; width: 128px; height: 128px;
+    filter: drop-shadow(var(--orb-glow));
+    animation: drift 9s var(--ease-inout) infinite;
+  }
+  @keyframes drift {
+    0%,100% { transform: translate(0,0); }
+    50% { transform: translate(14px, 12px); }
+  }
+  .cap { position: absolute; left: 60px; bottom: 34px; }
+  .cap h3 { font: var(--type-display-md); color: var(--text-strong); letter-spacing: var(--track-display); }
+  .cap p { font: var(--type-body-sm); color: var(--text-muted); margin-top: 6px; }
+</style>
+</head>
+<body>
+  <div class="mesh">
+    <img class="orb" src="../assets/terra-orb.png" alt="Terra orb">
+    <div class="cap">
+      <h3>Earth to sky, in one wash</h3>
+      <p>Layered organic blobs — not a flat linear-gradient</p>
+    </div>
+  </div>
+</body>
+</html>

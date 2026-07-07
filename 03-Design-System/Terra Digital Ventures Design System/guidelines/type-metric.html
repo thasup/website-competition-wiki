@@ -1,0 +1,29 @@
+<!-- @dsCard group="Type" viewport="700x180" name="Metric & label" subtitle="Tabular figures for every money/numeric cell — the financial-data signal" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; padding: 28px 32px; display: flex; gap: 48px; align-items: center; }
+  .metric { font: var(--type-metric); color: var(--text-strong);
+            font-variant-numeric: tabular-nums; letter-spacing: var(--track-metric); }
+  .metric small { font: var(--type-heading-md); color: var(--text-muted); }
+  .cap { font: var(--type-caption); color: var(--text-muted); margin-top: 4px; }
+  .ey { font: var(--type-eyebrow); letter-spacing: var(--track-eyebrow); text-transform: uppercase;
+        color: var(--tdv-cerulean-ink); }
+</style>
+</head>
+<body>
+  <div>
+    <div class="ey">Total volume</div>
+    <div class="metric">$3,481,902</div>
+    <div class="cap">tabular-nums · aligns across rows</div>
+  </div>
+  <div>
+    <div class="ey">Uptime</div>
+    <div class="metric">99.99<small>%</small></div>
+    <div class="cap">metric · 44 / 600</div>
+  </div>
+</body>
+</html>

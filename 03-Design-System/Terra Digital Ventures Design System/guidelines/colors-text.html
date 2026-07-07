@@ -1,0 +1,23 @@
+<!-- @dsCard group="Colors" viewport="700x170" name="Text & neutrals" subtitle="Ink ramp on white — strong, body, muted, faint, hairlines" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; padding: 28px 32px; background: var(--surface-page); }
+  .row { display: flex; flex-direction: column; gap: 10px; }
+  .line { display: flex; align-items: baseline; gap: 16px; }
+  .t { font: var(--type-heading-md); }
+  .lbl { font: var(--type-caption); color: var(--text-faint); font-variant-numeric: tabular-nums; margin-left: auto; }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="line"><span class="t" style="color:var(--text-strong)">Strong ink — headings</span><span class="lbl">#272428</span></div>
+    <div class="line"><span class="t" style="color:var(--text-body)">Body copy — default paragraph</span><span class="lbl">#4A464E</span></div>
+    <div class="line"><span class="t" style="color:var(--text-muted)">Muted — captions & labels</span><span class="lbl">#6F6B73</span></div>
+    <div class="line"><span class="t" style="color:var(--text-faint)">Faint — disabled & fine print</span><span class="lbl">#9A969D</span></div>
+  </div>
+</body>
+</html>

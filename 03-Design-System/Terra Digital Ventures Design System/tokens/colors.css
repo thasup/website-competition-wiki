@@ -1,0 +1,79 @@
+/* ============================================================
+   Terra Digital Ventures — Color Tokens
+   Official brand kit (Cerulean / Taupe / Frost + earthy secondary)
+   fused onto financial-infrastructure structural discipline.
+   ============================================================ */
+:root {
+  /* ---- Brand primaries (from the corporate color sheet) ---- */
+  --tdv-cerulean:      #529bc9; /* Pantone 2925 C — signature blue, orb, the ONLY filled-button color */
+  --tdv-taupe:         #272428; /* Pantone 426 C  — near-black ink & dark inverted bands */
+  --tdv-frost:         #e7e7e7; /* Pantone Cool Gray 1 C — cool neutral surface */
+
+  /* Cerulean working range (darkened for accessible fills / links / states) */
+  --tdv-cerulean-hover:  #3f86b4;
+  --tdv-cerulean-press:  #2e6e99;
+  --tdv-cerulean-ink:    #256187; /* readable on white — link + inline emphasis */
+  --tdv-cerulean-soft:   #d3e6f1; /* pale wash — soft tag / chart fill */
+  --tdv-cerulean-subtle: #eef5fa; /* barely-there tint band */
+
+  /* ---- Secondary earth palette (mesh + data-viz ONLY — never buttons/body) ---- */
+  --tdv-light-tawny:   #e7d6cd; /* Pantone 7604 C — warm interlude band */
+  --tdv-sienna:        #7c4b3c; /* Pantone 2439 C */
+  --tdv-terracotta:    #752a19; /* Pantone 7580 C */
+  --tdv-laurel:        #c4d9da; /* Pantone 643 C  — pale sky-green */
+  --tdv-swamp:         #357887; /* Pantone 631 C  — teal */
+  --tdv-viridian:      #003849; /* Pantone 7706 C — deepest earth-sky edge */
+
+  /* ---- Neutral ramp (built off Taupe + Frost) ---- */
+  --tdv-ink:           #272428; /* default body text — never pure black */
+  --tdv-ink-2:         #4a464e; /* secondary text */
+  --tdv-ink-mute:      #6f6b73; /* helper text, captions, labels */
+  --tdv-ink-faint:     #9a969d; /* disabled, fine print */
+  --tdv-hairline:      #e4e2e5; /* 1px borders on cards/tables */
+  --tdv-hairline-cool: #d7dee4; /* cooler hairline on form inputs */
+
+  /* ---- Surfaces ---- */
+  --tdv-canvas:        #ffffff;
+  --tdv-canvas-soft:   #f6f8fa; /* cool off-white feature bands */
+  --tdv-canvas-frost:  #eef0f2; /* Frost-tinted section fill */
+  --tdv-canvas-warm:   #f4e9e2; /* Light-Tawny wash — warm interlude */
+  --tdv-canvas-dark:   #272428; /* Taupe dark band */
+  --tdv-canvas-deep:   #003849; /* Viridian deep band */
+  --tdv-on-dark:       #ffffff;
+  --tdv-on-dark-mute:  rgba(255,255,255,0.66);
+  --tdv-on-dark-line:  rgba(255,255,255,0.14);
+
+  /* ---- Semantic aliases (author against these) ---- */
+  --color-primary:        var(--tdv-cerulean);
+  --color-primary-hover:  var(--tdv-cerulean-hover);
+  --color-primary-press:  var(--tdv-cerulean-press);
+  --color-on-primary:     #ffffff;
+  --color-link:           var(--tdv-cerulean-ink);
+  --color-link-hover:     var(--tdv-cerulean-press);
+
+  --text-strong:   var(--tdv-ink);
+  --text-body:     var(--tdv-ink-2);
+  --text-muted:    var(--tdv-ink-mute);
+  --text-faint:    var(--tdv-ink-faint);
+  --text-on-dark:  var(--tdv-on-dark);
+
+  --surface-page:   var(--tdv-canvas);
+  --surface-soft:   var(--tdv-canvas-soft);
+  --surface-frost:  var(--tdv-canvas-frost);
+  --surface-warm:   var(--tdv-canvas-warm);
+  --surface-card:   var(--tdv-canvas);
+  --surface-dark:   var(--tdv-canvas-dark);
+  --surface-deep:   var(--tdv-canvas-deep);
+
+  --border-default: var(--tdv-hairline);
+  --border-input:   var(--tdv-hairline-cool);
+  --border-focus:   var(--tdv-cerulean);
+
+  /* Data-viz sequence (earth-to-sky) */
+  --viz-1: var(--tdv-cerulean);
+  --viz-2: var(--tdv-swamp);
+  --viz-3: var(--tdv-viridian);
+  --viz-4: var(--tdv-sienna);
+  --viz-5: var(--tdv-terracotta);
+  --viz-6: var(--tdv-light-tawny);
+}

@@ -1,0 +1,47 @@
+/* ============================================================
+   Terra Digital Ventures — Typography Tokens
+   Latin: Poppins · Thai: Sarabun (bilingual fall-through)
+   Headline/Sub-head → Poppins 600/500 · Body → Poppins 400/300
+   Every numeric/money cell uses tabular figures (font-variant-numeric).
+   ============================================================ */
+:root {
+  /* Families — bilingual stack: Latin renders Poppins, Thai falls through to Sarabun */
+  --font-sans:    'Poppins', 'Sarabun', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-thai:    'Sarabun', 'Poppins', ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-sans);
+
+  /* Weights (from the brand type sheet) */
+  --fw-light:    300; /* @kind font */
+  --fw-regular:  400; /* @kind font */
+  --fw-medium:   500; /* @kind font */
+  --fw-semibold: 600; /* @kind font */
+  --fw-bold:     700; /* @kind font */
+
+  /* Display / headline tier — Poppins SemiBold, tight tracking */
+  --type-display-xxl: var(--fw-semibold) 56px/1.05 var(--font-display);
+  --type-display-xl:  var(--fw-semibold) 44px/1.08 var(--font-display);
+  --type-display-lg:  var(--fw-semibold) 32px/1.14 var(--font-display);
+  --type-display-md:  var(--fw-semibold) 26px/1.2  var(--font-display);
+  --type-heading-lg:  var(--fw-semibold) 22px/1.28 var(--font-display);
+  --type-heading-md:  var(--fw-medium)   20px/1.35 var(--font-sans);
+  --type-heading-sm:  var(--fw-medium)   18px/1.4  var(--font-sans);
+
+  /* Body tier — Poppins Regular/Light */
+  --type-body-lg:  var(--fw-regular) 18px/1.6 var(--font-sans);
+  --type-body-md:  var(--fw-regular) 16px/1.6 var(--font-sans);
+  --type-body-sm:  var(--fw-regular) 14px/1.55 var(--font-sans);
+  --type-caption:  var(--fw-regular) 13px/1.45 var(--font-sans);
+  --type-micro:    var(--fw-regular) 11px/1.4  var(--font-sans);
+
+  /* Labels & numerics */
+  --type-button:   var(--fw-medium)   15px/1 var(--font-sans);
+  --type-eyebrow:  var(--fw-semibold) 12px/1.1 var(--font-sans);
+  --type-metric:   var(--fw-semibold) 44px/1  var(--font-display);
+
+  /* Letter-spacing scale */
+  --track-display:  -0.02em;  /* tighten large display */
+  --track-heading:  -0.01em;
+  --track-normal:   0;         /* @kind font */
+  --track-eyebrow:  0.14em;   /* all-caps eyebrow */
+  --track-metric:   -0.01em;
+}
