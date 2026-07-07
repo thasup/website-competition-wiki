@@ -19,9 +19,9 @@ updated: 2026-07-07
 | Area | Start here |
 |---|---|
 | 📋 Project | [[Project Charter]] · [[Competition Brief]] · [[Timeline & Milestones]] · [[Mandatory Requirements Tracker]] · [[Team & Roles]] · [[Research Checklist]] |
-| 🎯 Brand & Positioning | [[TDV Brand Fact Sheet]] · [[Differentiation & Positioning Brief]] · [[Competitor Research & Positioning Analysis]] · [[Messaging & Copy Deck]] · [[Content Inventory]] |
+| 🎯 Brand & Positioning | [[TDV Brand Fact Sheet]] · [[Live Site Cross-Check]] · [[Differentiation & Positioning Brief]] · [[Competitor Research & Positioning Analysis]] · [[Messaging & Copy Deck]] · [[Content Inventory]] |
 | 🎨 Design System | [[Design System Overview]] |
-| 🧩 Product | [[Sitemap & Information Architecture]] · [[UX Principles & Notes]] · [[Page-Specs/Home (Landing) Spec\|Home Spec]] |
+| 🧩 Product | [[Design Brief (for Claude Design)]] · [[Sitemap & Information Architecture]] · [[UX Principles & Notes]] · [[Page-Specs/Home (Landing) Spec\|Home Spec]] |
 | 🛠️ Build | [[Tech Stack & Architecture]] · [[Deployment & Submission]] · [[Repo & Environment Setup]] |
 | 🤖 Claude Playbook | [[Claude Utilization Log]] · [[Prompt Library]] · [[MCP, Skills & Subagents]] |
 | 🎤 Presentation | [[Demo Day Plan]] · [[Slides Outline]] |

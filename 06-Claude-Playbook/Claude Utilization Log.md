@@ -17,7 +17,7 @@ Aim to genuinely use all six (the more dimensions, the higher the Claude Utiliza
 |---|---|---|
 | **Claude Code** (write/edit code) | 🔴 | build the site |
 | **Planning** (IA, structure, concepts) | 🟢 | this vault + [[Sitemap & Information Architecture]] |
-| **MCP** (connect tools e.g. Figma) | 🔴 | [[MCP, Skills & Subagents]] |
+| **MCP** (connect tools e.g. Figma) | 🟡 | Claude in Chrome used for live-site render ([[Live Site Cross-Check]]); Figma still to do → [[MCP, Skills & Subagents]] |
 | **Skills** (prebuilt specialized skills) | 🟡 | terra-slides-v2, design skills available |
 | **Subagents** (parallel task splitting) | 🔴 | parallelize build workstreams |
 | **Image generation** (assets) | 🔴 | [[Content Inventory#Asset & image plan]] |
@@ -27,6 +27,8 @@ Aim to genuinely use all six (the more dimensions, the higher the Claude Utiliza
 |---|---|---|---|---|
 | 2026-07-07 | Plan | Read competition site; built research checklist | Planning | Fetch + digest rules into a scored checklist before building |
 | 2026-07-07 | Plan | Restructured folder into this Obsidian vault | Claude Code, Planning | Numbered-folder vault keyed to the scoring rubric |
+| 2026-07-07 | Content | Locked hero + pillar copy; rewrote 3 case studies Strategy→Delivery | Planning, Content | Positioning brief → locked copy in one pass |
+| 2026-07-07 | Research | Live-site cross-check via JS render (Claude in Chrome) — found the site is a single-page SPA | **MCP/Browser** | Raw fetch misses client-rendered pages; render with Chrome to verify. Sub-pages ≠ their URLs. → [[Live Site Cross-Check]] |
 | _add rows daily_ | | | | |
 
 ## "What worked best" (for the demo)

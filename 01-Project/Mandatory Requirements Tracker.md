@@ -14,9 +14,9 @@ Status legend: 🔴 not started · 🟡 in progress · 🟢 done
 
 | # | Requirement | Where it lives | Owner | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | Differentiation clear on **first scroll** — shows **both** Strategic Consulting **and** Technology Delivery | [[Page-Specs/Home (Landing) Spec\|Home hero]] | — | 🔴 | Copy from [[Differentiation & Positioning Brief#4. First-Scroll Message Architecture]] |
-| 2 | All **3 pillars**: Strategy · Technology · Data Analytics | [[Page-Specs/Home (Landing) Spec\|Pillars section]] | — | 🔴 | Needs 1–2 narrative sentences each (current site has none) — [[Messaging & Copy Deck]] |
-| 3 | **Portfolio** page: each project has **Industry + Outcome** | [[Content Inventory#Case study bank]] | — | 🔴 | 12 blurbs exist; rewrite 2–3 as Strategy→Delivery |
+| 1 | Differentiation clear on **first scroll** — shows **both** Strategic Consulting **and** Technology Delivery | [[Page-Specs/Home (Landing) Spec\|Home hero]] | — | 🟡 | ✅ Copy LOCKED ([[Messaging & Copy Deck#Hero — LOCKED]]); needs build |
+| 2 | All **3 pillars**: Strategy · Technology · Data Analytics | [[Page-Specs/Home (Landing) Spec\|Pillars section]] | — | 🟡 | ✅ Narrative copy LOCKED ([[Messaging & Copy Deck#The 3 pillars — LOCKED narrative copy]]); needs build |
+| 3 | **Portfolio** page: each project has **Industry + Outcome** | [[Content Inventory#Case study bank]] | — | 🟡 | ✅ 3 hero cards rewritten Strategy→Delivery; 9 secondary need Industry+Outcome pass |
 | 4 | **Social proof** (testimonials and/or client logos) | [[Content Inventory#Social proof]] | — | 🔴 | Sourcing + permissions to confirm |
 | 5 | Clear **Call-to-Action** | Global (hero + footer) | — | 🔴 | Reuse/upgrade "GET STARTED" — [[Messaging & Copy Deck#CTAs]] |
 | 6 | Shows **people diversity** — Consultant **+** Technology Specialist | [[Content Inventory#Team & people]] | — | 🔴 | Names unverified on-site; see fact sheet caveats |

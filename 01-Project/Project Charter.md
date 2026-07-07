@@ -32,8 +32,11 @@ Design and build a **new Terra Digital Ventures marketing website** in 10 days, 
 | Date | Decision | Owner | Link |
 |---|---|---|---|
 | 2026-07-07 | Vault restructured to Obsidian; research relocated | First | [[00-Home]] |
-| _TBD_ | Lock hero headline | Team | [[Differentiation & Positioning Brief]] |
-| _TBD_ | Lock tech stack | Dev | [[Tech Stack & Architecture]] |
+| 2026-07-07 | **Hero locked: "Strategy that ships."** + subheadline + 3 proof metrics | Team | [[Messaging & Copy Deck#Hero — LOCKED]] |
+| 2026-07-07 | **Pillar narrative copy locked** (Strategy / Technology / Data Analytics) | Team | [[Messaging & Copy Deck#The 3 pillars — LOCKED narrative copy]] |
+| 2026-07-07 | **3 hero case studies rewritten** as Strategy→Delivery | Team | [[Content Inventory#Hero case studies — LOCKED]] |
+| 2026-07-07 | Design generation targets **coded mockup** against the coded design system | First | [[Design Brief (for Claude Design)]] |
+| _TBD_ | Lock tech stack (Next.js vs static) | Dev | [[Tech Stack & Architecture]] |
 
 > Tag new decisions `#decision` so they surface in search.
 

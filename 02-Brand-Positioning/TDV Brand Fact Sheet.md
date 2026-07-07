@@ -1,6 +1,9 @@
 # TDV Brand Fact Sheet
 
-*Reference document for Terra Digital Ventures (TDV) — compiled from the current terradigitalventures.com site copy. The live site blocks automated crawling; all quotations were reconstructed faithfully from search-engine snippets of Terra's own pages and cross-checked. Direct quotes appear in quotation marks; summaries and inferences are labelled. Unverifiable items are flagged.*
+*Reference document for Terra Digital Ventures (TDV) — compiled from the current terradigitalventures.com site copy. Direct quotes appear in quotation marks; summaries and inferences are labelled. Unverifiable items are flagged.*
+
+> [!warning] Live verification 2026-07-07 — read [[Live Site Cross-Check]] first
+> The site is now fetchable and is a **single-page SPA**: `/about`, `/careers`, `/contact-us`, `/experiences` all render the **homepage**. The **homepage** content (hero, pillars, sub-services, all 12 experience cards, footer) is **live-verified ✅**. But the **About Us founding story, mission statement, Careers, and Contact** content (Sections 1, 5, 6) is **NOT on the live site today** — it derives from search-snippets / third-party sources and must be **verified with a stakeholder** before use as fact. Affected sections flagged inline.
 
 ## TL;DR
 - Terra Digital Ventures (TDV) presents itself with the hero line "Redefine your potential," a "technology and management consulting firm and Thailand's most influential advisor on digital venture building" whose stated differentiator is comprehensive, end-to-end delivery across three pillars: Strategy, Technology, and Data Analytics.
@@ -154,9 +157,9 @@ Careers contact: careers@terradigitalventures.com. Roles/teams listed: Advisory,
 6. **Verification benchmarks that would change these recommendations:** if a live crawl reveals per-pillar narrative copy, on-site named leadership, or a confirmed "How we helped our clients" heading, update Sections 3 and 5 accordingly; if the footer entity is updated to "Terra Digital Ventures Co., Ltd." on-site, resolve the legal-name discrepancy.
 
 ## Caveats
-- **The live site blocks automated fetching** (robots/anti-bot). All quotes were reconstructed from search-engine snippets of Terra's own pages and cross-checked; wording is faithful but page layout, imagery, and any copy not surfaced by search could not be captured directly.
+- ~~**The live site blocks automated fetching**~~ **RESOLVED 2026-07-07** — the site is fetchable and was fully captured (JS-rendered). It is a single-page SPA; see [[Live Site Cross-Check]]. Homepage copy below is live-verified; About/Careers/Contact copy is not live and needs stakeholder confirmation.
 - **Pillar sub-service groupings are inferred** from source item order and semantics, not an explicit on-site mapping. The Technology↔Data Analytics boundary is the softest point.
-- **No per-pillar narrative copy, no on-site named leadership, and the "How we helped our clients" heading could not be verified** — flagged as unconfirmed rather than definitively absent.
+- **RESOLVED 2026-07-07:** per-pillar narrative copy is **confirmed absent** (pillars are tab + image + bullet list only); the **"How we helped our clients" heading is confirmed present**. On-site named leadership remains **absent** (the live `/about` renders the homepage). See [[Live Site Cross-Check]].
 - **Contact page details** (address, phone, form fields) shown here draw partly on third-party directories (JobFinFin, LinkedIn, Tracxn, IN DETAIL STUDIO, RocketReach); they were not confirmable from the site's own "Loading"-state contact page and should be re-verified.
 - **Legal-entity discrepancy:** site footer says "TERRA CONSULTANT" (© 2024) while registries list "Terra Digital Ventures Co., Ltd." — noted, not resolved.
 - **Tagline variant:** third-party sources still show "most trusted advisor," indicating the on-site copy was likely revised to "most influential advisor"; the current on-site version is "most influential."
