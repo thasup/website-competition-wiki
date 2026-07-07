@@ -14,9 +14,9 @@ updated: 2026-07-07
 | Name | Function | Dev / Non-Dev | Primary responsibility |
 |---|---|---|---|
 | First (Thanachon Supasatian) | Senior Front-End Engineer | **Dev** | Build, architecture, deployment |
-| Boom (Jiratheep Pruchyathamkorn) | _TBD role_ | **Non-Dev** | Content, positioning, QA, demo |
+| Boom (Jiratheep Pruchyathamkorn) | Senior Associate, Advisory | **Non-Dev** | Strategy & business positioning, content, demo narrative |
 
-Registered on the [submission platform](https://terra-web-hackathon.vercel.app/submit) under team login `thanachon.s@terradigitalventures.com`. Confirm Boom's exact function/role to fill the _TBD_ above.
+Registered on the [submission platform](https://terra-web-hackathon.vercel.app/submit) under team login `thanachon.s@terradigitalventures.com`.
 
 *Eligibility met: 2 people, ≥1 Dev + ≥1 Non-Dev.*
 
