@@ -15,8 +15,19 @@ updated: 2026-07-07
 ## Submit
 - **Deadline: Wed 15 Jul 23:59 ICT.** Target internal ship **Jul 14** (buffer day).
 - Form: https://terra-web-hackathon.vercel.app/submit
-- Required: **deployed link**. Optional but recommended: team/entry name, techniques used, slides link.
-- Entries appear **anonymously**; you can **edit until deadline** — so submit early, keep polishing.
+- Team already registered under login `thanachon.s@terradigitalventures.com` → team name + roster in [[Team & Roles]].
+- **You can submit multiple entries and keep editing any of them right up to the deadline** — no need to get it perfect on the first pass.
+- Entries display **without the submitter's name** on the judging/gallery side, so voters and judges see the work, not who made it.
+
+### Form fields (as of the live submit page)
+| Field | Required? | Notes |
+|---|---|---|
+| Live URL (deployed link) | **Required** | Must be the working prod site |
+| Project name / one-line concept | Optional | e.g. "TDV site focused on client outcomes" |
+| Claude techniques used | Optional | Free text, hint text suggests: Planning, Claude Code, MCP, Subagents — tie back to [[Claude Utilization Log#Coverage tracker — the 6 techniques the site highlights]] |
+| Short description (1–2 sentences) | Optional | What it does, what stands out |
+| Slide/video link | Optional | For [[Demo Day Plan]] material |
+| Screenshot link | Optional | Leave blank and the platform auto-generates a preview |
 
 ## Popular vote (♥, +10%)
 - All entries show in the public [gallery](https://terra-web-hackathon.vercel.app/#gallery).

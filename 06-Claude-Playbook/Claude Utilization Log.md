@@ -29,6 +29,7 @@ Aim to genuinely use all six (the more dimensions, the higher the Claude Utiliza
 | 2026-07-07 | Plan | Restructured folder into this Obsidian vault | Claude Code, Planning | Numbered-folder vault keyed to the scoring rubric |
 | 2026-07-07 | Content | Locked hero + pillar copy; rewrote 3 case studies Strategy→Delivery | Planning, Content | Positioning brief → locked copy in one pass |
 | 2026-07-07 | Research | Live-site cross-check via JS render (Claude in Chrome) — found the site is a single-page SPA | **MCP/Browser** | Raw fetch misses client-rendered pages; render with Chrome to verify. Sub-pages ≠ their URLs. → [[Live Site Cross-Check]] |
+| 2026-07-07 | Plan | Reviewed live submit-page screenshot; documented exact form fields and confirmed team registration | Planning | Screenshot-driven doc updates keep the vault in sync with the live competition site without re-deriving rules from memory |
 | _add rows daily_ | | | | |
 
 ## "What worked best" (for the demo)

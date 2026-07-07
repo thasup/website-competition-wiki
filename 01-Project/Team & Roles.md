@@ -13,10 +13,12 @@ updated: 2026-07-07
 ## Roster
 | Name | Function | Dev / Non-Dev | Primary responsibility |
 |---|---|---|---|
-| First (Thanachon) | Senior Front-End Engineer | **Dev** | Build, architecture, deployment |
-| _TBD_ | _e.g. PO / BA / Design / Data_ | **Non-Dev** | Content, positioning, QA, demo |
+| First (Thanachon Supasatian) | Senior Front-End Engineer | **Dev** | Build, architecture, deployment |
+| Boom (Jiratheep Pruchyathamkorn) | _TBD role_ | **Non-Dev** | Content, positioning, QA, demo |
 
-*Fill this in at kickoff — the non-dev seat is required for eligibility.*
+Registered on the [submission platform](https://terra-web-hackathon.vercel.app/submit) under team login `thanachon.s@terradigitalventures.com`. Confirm Boom's exact function/role to fill the _TBD_ above.
+
+*Eligibility met: 2 people, ≥1 Dev + ≥1 Non-Dev.*
 
 ## RACI by workstream
 | Workstream | Responsible | Accountable | Consulted | Informed |
