@@ -12,6 +12,16 @@
       ],
       "port": 3000,
       "autoPort": true
+    },
+    {
+      "name": "replica-prod",
+      "runtimeExecutable": "/Users/thanachon.s/git/poc/rich-animation-website/node_modules/.bin/next",
+      "runtimeArgs": [
+        "start",
+        "/Users/thanachon.s/git/poc/rich-animation-website"
+      ],
+      "port": 4310,
+      "autoPort": true
     }
   ]
 }
