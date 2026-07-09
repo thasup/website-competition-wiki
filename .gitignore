@@ -6,3 +6,6 @@
 # plugin browser via .obsidian/community-plugins.json; don't vendor
 # third-party code into the wiki repo.
 .obsidian/plugins/
+
+# Local machine-specific tool config — not shared team config.
+.claude/settings.local.json
