@@ -2,7 +2,7 @@
 title: Alethia — Narrative & Animation Teardown
 type: inspiration
 tags: [inspiration, animation, narrative, reference, claude]
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Alethia — Narrative & Animation Teardown
@@ -69,6 +69,10 @@ Naming these so you can reference them precisely when briefing a build:
 > 9. **Footer billboard** — oversized brand wordmark spanning the viewport width as the final scroll beat, with footer nav/contact links laid beneath or inside it.
 >
 > Respect [[../../03-Design-System/Terra Digital Ventures Design System/styles.css|the design-system tokens]] for color/type — do not import Alethia's palette, only its motion structure. Every section must satisfy the [[../../01-Project/Mandatory Requirements Tracker|8 mandatory requirements]] (mobile responsive, ≥1 interactive/animation element, etc.) — treat the pin-and-scrub and circle-reveal patterns as the primary candidates for requirement #8.
+
+## Working replica (2026-07-09)
+
+A functional replica now exists at `~/git/poc/rich-animation-website` (Next.js + motion + lenis), built by reverse-engineering the live site's shipped JS. Key correction to Section 2's guesses: **there is no real-time 3D** — the hero rock is a 210-frame webp sequence scrubbed on a canvas (80-frame locked intro at 30fps, then scroll-driven with a 0.55 lerp follow), and every other "3D" scene is a looping webm swapped with springs (damping 60, stiffness 266–500). Exact parameters and implementation notes: `docs/TEARDOWN.md` in that repo.
 
 ## Related
 [[../../04-Product/Sitemap & Information Architecture|Sitemap & Information Architecture]] · [[../../04-Product/UX Principles & Notes|UX Principles & Notes]] · [[../../01-Project/Mandatory Requirements Tracker|Mandatory Requirements Tracker]]
