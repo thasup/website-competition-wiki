@@ -1,3 +1,8 @@
 .DS_Store
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Community plugin binaries — regenerable from the Obsidian community
+# plugin browser via .obsidian/community-plugins.json; don't vendor
+# third-party code into the wiki repo.
+.obsidian/plugins/

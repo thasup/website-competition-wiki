@@ -16,7 +16,7 @@ updated: 2026-07-07
 | First (Thanachon Supasatian) | Senior Front-End Engineer | **Dev** | Build, architecture, deployment |
 | Boom (Jiratheep Pruchyathamkorn) | Senior Associate, Advisory | **Non-Dev** | Strategy & business positioning, content, demo narrative |
 
-Registered on the [submission platform](https://terra-web-hackathon.vercel.app/submit) under team login `thanachon.s@terradigitalventures.com`.
+Registered on the [submission platform](https://terra-web-hackathon.vercel.app/submit) under the team lead's corporate account (First).
 
 *Eligibility met: 2 people, ≥1 Dev + ≥1 Non-Dev.*
 
@@ -31,7 +31,7 @@ Registered on the [submission platform](https://terra-web-hackathon.vercel.app/s
 | Presentation ([[Demo Day Plan]]) | Non-dev | Team lead | Dev | All |
 
 ## Capability notes
-- Dev stack strengths & gaps: [[Team Capability — First (Dev)]] (React/Vue/TS expert; SQL is a gap — irrelevant here since no back-end in scope).
+- Dev stack strengths & gaps: React/Vue/TS expert; SQL is a gap — irrelevant here since no back-end in scope.
 - Implication: **front-end-heavy build is our strength.** Lean into it — polished static/SSG marketing site on Vercel, no back-end risk.
 
 ## Working agreement

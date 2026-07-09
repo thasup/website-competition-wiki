@@ -7,7 +7,7 @@ updated: 2026-07-07
 
 # Tech Stack & Architecture
 
-*Optimized for our team's strength (front-end-heavy — see [[Team Capability — First (Dev)]]) and a 10-day clock. No back-end in scope → zero infra risk.*
+*Optimized for our team's strength (front-end-heavy — see [[Team & Roles#Capability notes]]) and a 10-day clock. No back-end in scope → zero infra risk.*
 
 ## Recommended stack (opinionated)
 | Layer | Choice | Why |

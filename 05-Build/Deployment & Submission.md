@@ -15,7 +15,7 @@ updated: 2026-07-07
 ## Submit
 - **Deadline: Wed 15 Jul 23:59 ICT.** Target internal ship **Jul 14** (buffer day).
 - Form: https://terra-web-hackathon.vercel.app/submit
-- Team already registered under login `thanachon.s@terradigitalventures.com` → team name + roster in [[Team & Roles]].
+- Team already registered under the team lead's corporate account → team name + roster in [[Team & Roles]].
 - **You can submit multiple entries and keep editing any of them right up to the deadline** — no need to get it perfect on the first pass.
 - Entries display **without the submitter's name** on the judging/gallery side, so voters and judges see the work, not who made it.
 

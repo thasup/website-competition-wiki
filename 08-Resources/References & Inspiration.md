@@ -12,7 +12,7 @@ updated: 2026-07-07
 - **Design inspiration named by organizers:** [thoughtworks.com](https://www.thoughtworks.com) — a peer consultancy that fuses strategy + engineering.
 
 ## Local resources
-- 📕 **Refactoring UI** — `08-Resources/RefactoringUI_compressed.pdf`. The design bible for the UI/Creativity 15%. Key idea we're already using: hierarchy = one dominant claim ("emphasize by de-emphasizing") — the basis for the single-headline hero in [[Differentiation & Positioning Brief]].
+- 📕 **Refactoring UI** — Wathan & Schoger, [refactoringui.com](https://www.refactoringui.com/). The design bible for the UI/Creativity 15%. Key idea we're already using: hierarchy = one dominant claim ("emphasize by de-emphasizing") — the basis for the single-headline hero in [[Differentiation & Positioning Brief]]. *(No local copy kept in-repo — it's a paid book; buy/reference externally.)*
 
 ## Inspiration teardown (fill in)
 Drop screenshots/notes in `08-Resources/Inspiration/`. For each reference capture: layout grammar, interaction ideas, what to steal, what to avoid.
@@ -25,7 +25,7 @@ Drop screenshots/notes in `08-Resources/Inspiration/`. For each reference captur
 
 ## Reading (aligned to this build)
 - *Building a StoryBrand* — Donald Miller (first-scroll clarity)
-- *Refactoring UI* — Wathan & Schoger (credible visual design fast) — **local copy above**
+- *Refactoring UI* — Wathan & Schoger (credible visual design fast)
 - *Don't Make Me Think* — Steve Krug (UX heuristics)
 
 ## Related

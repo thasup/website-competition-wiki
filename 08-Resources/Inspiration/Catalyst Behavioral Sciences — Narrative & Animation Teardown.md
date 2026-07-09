@@ -47,7 +47,7 @@ The through-line: **every claim is immediately backed by evidence of depth** (re
 | 10 | **Logo wall (extended)** | — | Apple, Disney, OpenAI, Google, amazon, AT&T, adidas, Samsung, intel, Netflix, P&G, Breitling | Staggered logo reveal |
 | 11 | **Category cards** | Academic Appointments · Government & Institutional Research · Marketing Sciences Research · Media Coverage | 4 cards, each with "Read More" | Fade/rise, staggered |
 | 12 | **Publications** | "author of 26 peer-reviewed publications … cited 8,000+ times (Google Scholar)" | Grid of publication cards | Staggered grid reveal |
-| 13 | **Team** | "supported by a multidisciplinary team of behavioral scientists, research methodologists, and statisticians…" | **Staggered masonry grid** of ~9 B&W portrait cards (name + title): Connie Rodman, Cary Anderson, Don Clermont, Penny Scudder, Dan Bauer, Claudia Townsend, Daniel Epstein, Juliano Laran, Asaf Mazar | Cards **fade + rise with offset per-card timing** as they enter the viewport |
+| 13 | **Team** | "supported by a multidisciplinary team of behavioral scientists, research methodologists, and statisticians…" | **Staggered masonry grid** of ~9 B&W portrait cards (name + title) *(individual names omitted here — not relevant to the motion pattern and not our subjects to publish)* | Cards **fade + rise with offset per-card timing** as they enter the viewport |
 | 14 | **Footer** | (same as page 1) | — | Fade-in |
 
 ## 3. Reusable motion pattern library
